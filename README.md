@@ -1,2 +1,2 @@
 # ExpendableListView-sqlite
-ExpendableListView using SQLite Database (Create and Read)
+Simple Android application using Expendable List View with SQLite Database (Create and Read)
